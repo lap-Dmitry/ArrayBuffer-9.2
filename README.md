@@ -1,1 +1,1 @@
-[![CircleCI](https://circleci.com/gh/lap-Dmitry/ArrayBuffer-9.2/tree/master.svg?style=svg)](https://circleci.com/gh/lap-Dmitry/ArrayBuffer-9.2/tree/master)
+[![Build Status](https://app.travis-ci.com/lap-Dmitry/ArrayBuffer-9.2.svg?branch=master)](https://app.travis-ci.com/lap-Dmitry/ArrayBuffer-9.2)
